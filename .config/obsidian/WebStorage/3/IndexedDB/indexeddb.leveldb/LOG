@@ -1,6 +1,0 @@
-2024/05/05-11:30:32.406 4e0da Creating DB /home/nail_/.config/obsidian/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
-2024/05/05-11:30:32.409 4e0da Reusing MANIFEST /home/nail_/.config/obsidian/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/05/05-11:30:35.252 4e04b Level-0 table #5: started
-2024/05/05-11:30:35.253 4e04b Level-0 table #5: 5406 bytes OK
-2024/05/05-11:30:35.255 4e04b Delete type=0 #3
-2024/05/05-11:30:35.255 4e04b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
