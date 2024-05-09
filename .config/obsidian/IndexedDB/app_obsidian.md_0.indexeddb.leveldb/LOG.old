@@ -1,0 +1,37 @@
+2024/05/08-15:40:56.047 32db97 Reusing MANIFEST /home/nail_/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/08-15:40:56.049 32db97 Recovering log #3903
+2024/05/08-15:40:56.078 32db97 Reusing old log /home/nail_/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/003903.log 
+2024/05/08-15:41:04.465 32dc2f Level-0 table #3908: started
+2024/05/08-15:41:04.481 32dc2f Level-0 table #3908: 876240 bytes OK
+2024/05/08-15:41:04.484 32dc2f Delete type=0 #3903
+2024/05/08-15:41:04.527 32dc2f Compacting 1@1 + 1@2 files
+2024/05/08-15:41:04.572 32dc2f Generated table #3909@1: 27973 keys, 2146595 bytes
+2024/05/08-15:41:04.572 32dc2f Compacted 1@1 + 1@2 files => 2146595 bytes
+2024/05/08-15:41:04.574 32dc2f compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/05/08-15:41:04.574 32dc2f Delete type=2 #3905
+2024/05/08-15:41:04.574 32dc2f Delete type=2 #3908
+2024/05/08-15:41:08.854 32dc2f Level-0 table #3911: started
+2024/05/08-15:41:08.870 32dc2f Level-0 table #3911: 838515 bytes OK
+2024/05/08-15:41:08.873 32dc2f Delete type=0 #3907
+2024/05/08-15:41:08.974 32dc2f Compacting 1@1 + 1@2 files
+2024/05/08-15:41:09.019 32dc2f Generated table #3912@1: 27976 keys, 2146667 bytes
+2024/05/08-15:41:09.019 32dc2f Compacted 1@1 + 1@2 files => 2146667 bytes
+2024/05/08-15:41:09.021 32dc2f compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/05/08-15:41:12.819 32dc2f Level-0 table #3914: started
+2024/05/08-15:41:12.836 32dc2f Level-0 table #3914: 827088 bytes OK
+2024/05/08-15:41:12.839 32dc2f Delete type=2 #3909
+2024/05/08-15:41:12.839 32dc2f Delete type=0 #3910
+2024/05/08-15:41:12.839 32dc2f Delete type=2 #3911
+2024/05/08-15:41:12.932 32dc2f Compacting 1@1 + 1@2 files
+2024/05/08-15:41:12.978 32dc2f Generated table #3915@1: 27976 keys, 2146578 bytes
+2024/05/08-15:41:12.978 32dc2f Compacted 1@1 + 1@2 files => 2146578 bytes
+2024/05/08-15:41:12.981 32dc2f compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/05/08-15:41:16.099 32dc2f Level-0 table #3917: started
+2024/05/08-15:41:16.115 32dc2f Level-0 table #3917: 807764 bytes OK
+2024/05/08-15:41:16.118 32dc2f Delete type=2 #3912
+2024/05/08-15:41:16.118 32dc2f Delete type=0 #3913
+2024/05/08-15:41:16.118 32dc2f Delete type=2 #3914
+2024/05/08-15:41:16.217 32dc2f Compacting 1@1 + 1@2 files
+2024/05/08-15:41:16.270 32dc2f Generated table #3918@1: 27976 keys, 2146725 bytes
+2024/05/08-15:41:16.270 32dc2f Compacted 1@1 + 1@2 files => 2146725 bytes
+2024/05/08-15:41:16.273 32dc2f compacted to: files[ 0 0 4 0 0 0 0 ]

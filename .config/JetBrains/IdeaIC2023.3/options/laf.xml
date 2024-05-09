@@ -1,0 +1,10 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="3ef5925f-3169-46ca-ba19-96a58f317428" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Gruvbox Dark Medium" />
+      <laf-to-scheme laf="f2de70af-bc81-47f2-a734-4c807d5ca444" scheme="_@user_Default" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

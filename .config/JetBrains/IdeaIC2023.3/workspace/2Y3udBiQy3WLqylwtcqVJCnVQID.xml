@@ -1,0 +1,133 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="src" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pollo_demo_tutorial/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1712118615526" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="1" lastUsed="1712118620969" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pollo_demo_tutorial/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1712118620969" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/nail_/Documents/School/IB/Computer Science/IB2/Option D/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/nail_/Documents/School/IB/Computer Science/IB2/Option D/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/nail_/Documents/School/IB/Computer Science/IB2/Option D/src/pollo_demo_tutorial}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23932292" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32954544" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32954544" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.32954544" left="0.23932292" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="321" key="FileChooserDialogImpl" timestamp="1712121392237">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state x="700" y="321" key="FileChooserDialogImpl/0.42.1920.1038@0.42.1920.1038" timestamp="1712121392237" />
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom" timestamp="1712121404865">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.bottom/0.42.1920.1038@0.42.1920.1038" timestamp="1712121404865" />
+    <state width="1838" height="291" key="GridCell.Tab.0.center" timestamp="1712121404864">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.center/0.42.1920.1038@0.42.1920.1038" timestamp="1712121404864" />
+    <state width="1838" height="291" key="GridCell.Tab.0.left" timestamp="1712121404863">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.left/0.42.1920.1038@0.42.1920.1038" timestamp="1712121404863" />
+    <state width="1838" height="291" key="GridCell.Tab.0.right" timestamp="1712121404864">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state width="1838" height="291" key="GridCell.Tab.0.right/0.42.1920.1038@0.42.1920.1038" timestamp="1712121404864" />
+    <state x="560" y="211" width="800" height="704" key="new project wizard" timestamp="1712121402201">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state x="560" y="211" width="800" height="704" key="new project wizard/0.42.1920.1038@0.42.1920.1038" timestamp="1712121402201" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pollo_demo_tutorial/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pollo_demo_tutorial/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

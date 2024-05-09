@@ -1,0 +1,49 @@
+00:00:00.000831 main     VirtualBox XPCOM Server 7.0.14 r161095 linux.amd64 (Jan 19 2024 13:54:29) release log
+00:00:00.000832 main     Log opened 2024-02-03T18:27:44.277414000Z
+00:00:00.000832 main     Build Type: release
+00:00:00.000833 main     OS Product: Linux
+00:00:00.000834 main     OS Release: 6.7.3-arch1-1
+00:00:00.000834 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 01 Feb 2024 10:30:35 +0000
+00:00:00.000856 main     DMI Product Name: 82K2
+00:00:00.000863 main     DMI Product Version: IdeaPad Gaming 3 15ACH6
+00:00:00.000867 main     Firmware type: UEFI
+00:00:00.001622 main     Secure Boot: Disabled
+00:00:00.001655 main     Host RAM: 15341MB (14.9GB) total, 6895MB (6.7GB) available
+00:00:00.001658 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001658 main     Process ID: 26672
+00:00:00.001658 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003506 main     IPC socket path: /tmp/.vbox-nail_-ipc/ipcd
+00:00:00.110319 nspr-2   VirtualBox: object creation starts
+00:00:00.111836 nspr-2   Home directory: '/home/nail_/.config/VirtualBox'
+00:00:00.119247 nspr-2   Failed to retrive disk info: getDiskName(/dev/mapper/root) --> root
+00:00:00.128270 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.130017 nspr-2   HostDnsMonitor: initializing
+00:00:00.130130 nspr-2   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.130140 nspr-2   HostDnsMonitor: updating information
+00:00:00.130725 nspr-2   HostDnsMonitor: old information
+00:00:00.130727 nspr-2     no server entries
+00:00:00.130729 nspr-2     no domain set
+00:00:00.130730 nspr-2     no search string entries
+00:00:00.130731 nspr-2   HostDnsMonitor: new information
+00:00:00.130732 nspr-2     server 1: 192.168.0.1
+00:00:00.130733 nspr-2     no domain set
+00:00:00.130734 nspr-2     no search string entries
+00:00:00.135030 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.135455 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.137172 nspr-2   VirtualBox: object created
+00:00:00.493046 nspr-4   Saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.495218 nspr-4   Finished saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml"
+00:00:00.530663 nspr-2   Saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.532199 nspr-2   Finished saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml"
+00:00:00.574744 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:00.879633 nspr-3   Saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.886522 nspr-3   Finished saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml"
+00:00:20.630253 nspr-4   Saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:20.637383 nspr-4   Finished saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml"
+00:00:23.746287 nspr-2   Saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:23.753241 nspr-2   Finished saving settings file "/home/nail_/.config/VirtualBox/VirtualBox.xml"
+00:00:37.773695 main     VirtualBox: object deletion starts
+00:00:37.773914 main     HostDnsMonitor: shutting down ...
+00:00:37.784382 main     HostDnsMonitor: shut down
+00:00:37.794796 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:37.794872 main     VirtualBox: object deleted
